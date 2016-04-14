@@ -1,0 +1,22 @@
+c:\users\raza\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.exe.config
+c:\users\raza\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.exe
+c:\users\raza\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.pdb
+c:\users\raza\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+c:\users\raza\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.Welcome_form.resources
+c:\users\raza\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.Settings_form.resources
+c:\users\raza\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.Gameform.resources
+c:\users\raza\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+c:\users\raza\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.csproj.GenerateResource.Cache
+c:\users\raza\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.exe
+c:\users\raza\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.pdb
+E:\bse-6a\vp\game project\Prototype\Prototype\bin\Debug\Prototype.exe.config
+E:\bse-6a\vp\game project\Prototype\Prototype\obj\Debug\Prototype.exe
+E:\bse-6a\vp\game project\Prototype\Prototype\obj\Debug\Prototype.pdb
+E:\bse-6a\vp\game project\Prototype\Prototype\bin\Debug\Prototype.exe
+E:\bse-6a\vp\game project\Prototype\Prototype\bin\Debug\Prototype.pdb
+E:\bse-6a\vp\game project\Prototype\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+E:\bse-6a\vp\game project\Prototype\Prototype\obj\Debug\Prototype.Welcome_form.resources
+E:\bse-6a\vp\game project\Prototype\Prototype\obj\Debug\Prototype.Settings_form.resources
+E:\bse-6a\vp\game project\Prototype\Prototype\obj\Debug\Prototype.Gameform.resources
+E:\bse-6a\vp\game project\Prototype\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+E:\bse-6a\vp\game project\Prototype\Prototype\obj\Debug\Prototype.csproj.GenerateResource.Cache

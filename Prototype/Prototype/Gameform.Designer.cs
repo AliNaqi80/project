@@ -38,26 +38,27 @@
             // 
             // pictureBox3
             // 
+            this.pictureBox3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox3.Image = global::Prototype.Properties.Resources.download1;
-            this.pictureBox3.Location = new System.Drawing.Point(125, 123);
+            this.pictureBox3.Location = new System.Drawing.Point(181, 142);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(11, 10);
+            this.pictureBox3.Size = new System.Drawing.Size(19, 18);
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
             // 
             // pictureBox2
             // 
             this.pictureBox2.BackgroundImage = global::Prototype.Properties.Resources.download;
-            this.pictureBox2.Location = new System.Drawing.Point(268, 69);
+            this.pictureBox2.Location = new System.Drawing.Point(355, 99);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(20, 99);
+            this.pictureBox2.Size = new System.Drawing.Size(22, 99);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Prototype.Properties.Resources.download__1_;
-            this.pictureBox1.Location = new System.Drawing.Point(-1, 69);
+            this.pictureBox1.Image = global::Prototype.Properties.Resources.download__1_1;
+            this.pictureBox1.Location = new System.Drawing.Point(-1, 99);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(21, 99);
             this.pictureBox1.TabIndex = 0;
@@ -67,7 +68,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.BackgroundImage = global::Prototype.Properties.Resources.images__1_;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(377, 300);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);

@@ -34,22 +34,30 @@
             // 
             // play_btn
             // 
-            this.play_btn.Location = new System.Drawing.Point(108, 100);
+            this.play_btn.BackColor = System.Drawing.Color.Black;
+            this.play_btn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.play_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.play_btn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.play_btn.Location = new System.Drawing.Point(66, 119);
             this.play_btn.Name = "play_btn";
-            this.play_btn.Size = new System.Drawing.Size(75, 23);
+            this.play_btn.Size = new System.Drawing.Size(75, 33);
             this.play_btn.TabIndex = 0;
             this.play_btn.Text = "Play";
-            this.play_btn.UseVisualStyleBackColor = true;
+            this.play_btn.UseVisualStyleBackColor = false;
             this.play_btn.Click += new System.EventHandler(this.play_btn_Click);
             // 
             // settings_btn
             // 
-            this.settings_btn.Location = new System.Drawing.Point(108, 139);
+            this.settings_btn.BackColor = System.Drawing.SystemColors.ControlText;
+            this.settings_btn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.settings_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.settings_btn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.settings_btn.Location = new System.Drawing.Point(165, 119);
             this.settings_btn.Name = "settings_btn";
-            this.settings_btn.Size = new System.Drawing.Size(75, 23);
+            this.settings_btn.Size = new System.Drawing.Size(75, 34);
             this.settings_btn.TabIndex = 1;
             this.settings_btn.Text = "Settings";
-            this.settings_btn.UseVisualStyleBackColor = true;
+            this.settings_btn.UseVisualStyleBackColor = false;
             this.settings_btn.Click += new System.EventHandler(this.settings_btn_Click);
             // 
             // Welcome_form

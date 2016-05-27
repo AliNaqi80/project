@@ -1,0 +1,18 @@
+H:\Pingpong game\Pingpong game\bin\Debug\Pingpong game.exe.config
+H:\Pingpong game\Pingpong game\obj\Debug\Pingpong game.exe
+H:\Pingpong game\Pingpong game\obj\Debug\Pingpong game.pdb
+C:\Users\raza\Desktop\Pingpong game\Pingpong game\bin\Debug\Pingpong game.exe.config
+C:\Users\raza\Desktop\Pingpong game\Pingpong game\obj\Debug\Pingpong game.exe
+C:\Users\raza\Desktop\Pingpong game\Pingpong game\obj\Debug\Pingpong game.pdb
+C:\Users\raza\Desktop\Pingpong game\Pingpong game\bin\Debug\Pingpong game.exe
+C:\Users\raza\Desktop\Pingpong game\Pingpong game\bin\Debug\Pingpong game.pdb
+C:\Users\raza\Desktop\Pingpong game\Pingpong game\obj\Debug\Pingpong game.csprojResolveAssemblyReference.cache
+C:\Users\raza\Desktop\Pingpong game\Pingpong game\obj\Debug\Pingpong_game.dialoguebox.resources
+C:\Users\raza\Desktop\Pingpong game\Pingpong game\obj\Debug\Pingpong_game.Welcome.resources
+C:\Users\raza\Desktop\Pingpong game\Pingpong game\obj\Debug\Pingpong_game.looser.resources
+C:\Users\raza\Desktop\Pingpong game\Pingpong game\obj\Debug\Pingpong_game.PingPong.resources
+C:\Users\raza\Desktop\Pingpong game\Pingpong game\obj\Debug\Pingpong_game.Properties.Resources.resources
+C:\Users\raza\Desktop\Pingpong game\Pingpong game\obj\Debug\Pingpong game.csproj.GenerateResource.Cache
+E:\bse-6a\vp\game project\Pingpong game\Pingpong game\bin\Debug\Pingpong game.exe.config
+E:\bse-6a\vp\game project\Pingpong game\Pingpong game\obj\Debug\Pingpong game.exe
+E:\bse-6a\vp\game project\Pingpong game\Pingpong game\obj\Debug\Pingpong game.pdb
